@@ -10,6 +10,7 @@ Nodes are the Selenium instances that will execute the tests that you loaded on 
 
 
 ~~~ for HUB, use this command:
+~~~ for HUB, use this command:
 java -jar selenium-server-standalone-3.8.1.jar -role hub
 
 ~~~ for Node, use this command:
