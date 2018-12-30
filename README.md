@@ -15,3 +15,6 @@ java -jar selenium-server-standalone-3.8.1.jar -role hub
 
 ~~~ for Node, use this command:
 java -Dwebdriver.chrome.driver="/Users/NaveenKhunteta/Downloads/chromedriver" -jar selenium-server-standalone-3.8.1.jar -role node -hub http://192.168.0.102:4444/grid/register
+
+
+https://www.techbeamers.com/selenium-grid-webdriver-code-example-java/
