@@ -8,6 +8,7 @@ There should only be one hub in a grid.
 #The Nodes:
 Nodes are the Selenium instances that will execute the tests that you loaded on the hub.
 
+
 ~~~ for HUB, use this command:
 java -jar selenium-server-standalone-3.8.1.jar -role hub
 
