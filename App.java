@@ -16,7 +16,7 @@ public class App
 {
     public static void main( String[] args ) throws MalformedURLException
     {
-     /*   DesiredCapabilities cap  =new DesiredCapabilities();
+      DesiredCapabilities cap  =new DesiredCapabilities();
         cap.setPlatform(Platform.WINDOWS);
         cap.setBrowserName("chrome");
         
@@ -24,7 +24,7 @@ public class App
         
         driver.manage().window().maximize();
         driver.get("https://www.techbeamers.com/selenium-grid-webdriver-code-example-java/");
-        
+    /*    
      ////////////////////////////   
         DesiredCapabilities cap1  =new DesiredCapabilities();
         cap1.setPlatform(Platform.WINDOWS);
@@ -36,7 +36,7 @@ public class App
         driver1.get("https://www.techbeamers.com/selenium-grid-webdriver-code-example-java/");*/
         
      ///////////////////////////////
-        
+    /*    
         DesiredCapabilities cap2  =new DesiredCapabilities();
         cap2.setPlatform(Platform.WINDOWS);
         cap2.setBrowserName("internetexplorer");
@@ -45,5 +45,6 @@ public class App
         
         driver2.manage().window().maximize();
         driver2.get("https://www.techbeamers.com/selenium-grid-webdriver-code-example-java/");
+        */
     }
 }
